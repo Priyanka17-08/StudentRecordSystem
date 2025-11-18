@@ -33,8 +33,12 @@ Marks Grade 90 and above A     75–89 B     50–74 C     Below 50 D
 
 Add Student
 Display All Students
-Exit Enter your choice: 1       Roll No: 101      Name: Rahul        Course: B.Tech        Marks: 87.0
-===== Student Record Menu =====
+Exit Enter your choice: 1      
+Roll No: 101     
+Name: Rahul        
+Course: B.Tech        
+Marks: 87.0
+
 
 Add Student
 Display All Students
