@@ -29,18 +29,11 @@ calculateGrade() → assigns grade based on marks.
 Menu-driven interface: Add Student, Display All Students, Exit.
 
 Grade Calculation
-Marks Grade 90 and above A 75–89 B 50–74 C Below 50 D Sample Output ===== Student Record Menu =====
+Marks Grade 90 and above A     75–89 B     50–74 C     Below 50 D
 
 Add Student
 Display All Students
-Exit Enter your choice: 1 Enter Roll No: 101 Enter Name: Rahul Enter Course: B.Tech Enter Marks: 87.0
-===== Student Record Menu =====
-
-Add Student
-Display All Students
-Exit Enter your choice: 2
-Roll No: 101 Name: Rahul Course: B.Tech Marks: 87.0 Grade: B
-
+Exit Enter your choice: 1       Roll No: 101      Name: Rahul        Course: B.Tech        Marks: 87.0
 ===== Student Record Menu =====
 
 Add Student
