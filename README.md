@@ -1,3 +1,4 @@
+# JAVA LAB ASSIGNMENT 1
 # Student Record Management System (Java)
 A console-based Student Record Management System implemented in Java, demonstrating OOP concepts such as inheritance, constructors, methods, collections, and conditional logic.
 
