@@ -38,6 +38,7 @@ Roll No: 101
 Name: Rahul        
 Course: B.Tech        
 Marks: 87.0
+Grade: B
 
 
 Add Student
